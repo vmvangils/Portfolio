@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { FileText, Github, Linkedin, Mail, MapPin, Phone } from 'lucide-react';

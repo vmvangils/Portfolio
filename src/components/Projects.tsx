@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { ExternalLink, Github } from 'lucide-react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { Github } from 'lucide-react';
 
 const projects = [
   {
