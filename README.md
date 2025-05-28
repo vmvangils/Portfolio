@@ -70,19 +70,5 @@ npm run preview
 yarn preview
 ```
 
-## Customization
-
-To customize this portfolio for your own use:
-
-1. Update personal information in the components
-2. Replace project details in `src/components/Projects.tsx`
-3. Update skills data in `src/components/Skills.tsx`
-4. Add your own profile image
-
-## License
-
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
-
-Vasco van Gils - vmvangils@gmail.com
