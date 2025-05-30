@@ -29,17 +29,17 @@ const projects = [
     description: 'A fast and intuitive todo list application that helps users organize tasks and manage their daily activities efficiently. Built with Supabase for backend storage.',
     image: 'https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80',
     tags: ['React Native', 'TypeScript', 'Supabase', 'CSS'],
-    liveUrl: '#',
+    liveUrl: 'fastodovmvangils.vercel.app/',
     githubUrl: 'https://github.com/vmvangils/Fastodo',
   },
   {
     id: 4,
-    title: 'Expense Tracker',
-    description: 'A comprehensive expense tracking application that helps users monitor their spending habits and manage their financial activities.',
+    title: 'Biblequest',
+    description: 'BibleQuest: A playful, colorful Bible quiz app! Meant for children to learn the Bible in a fun and engaging way.',
     image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
-    tags: ['React Native', 'TypeScript', 'HTML', 'CSS'],
-    liveUrl: '#',
-    githubUrl: 'https://github.com/vmvangils/Expense-Tracker',
+    tags: ['React Native', 'TypeScript', 'HTML', 'CSS', 'Supabase'],
+    liveUrl: 'https://biblequest-one.vercel.app/',
+    githubUrl: 'https://github.com/vmvangils/Biblequest',
   },
 ];
 
