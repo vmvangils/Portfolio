@@ -37,7 +37,6 @@ export default function About() {
           >
             <div className="w-64 h-64 md:w-80 md:h-80 bg-indigo-200 rounded-full mx-auto overflow-hidden relative z-10">
               <img
-                src="https://mocha-cdn.com/0197162c-976b-75f3-8d08-a663e3db823e/image.png_3593.png"
                 alt="Vasco van Gils - Software Developer"
                 className="w-full h-full object-cover"
                 loading="lazy"

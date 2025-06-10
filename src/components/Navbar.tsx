@@ -58,7 +58,7 @@ export default function Navbar() {
       </div>
       {isMenuOpen && (
         <div className="md:hidden bg-white dark:bg-gray-800 absolute top-full left-0 right-0 shadow-md py-4 px-4 flex flex-col space-y-4">
-          {['home', 'about', 'skills', 'projects', 'contact'].map((item) => (
+          {['Home', 'About', 'Skills', 'Projects', 'Contact'].map((item) => (
             <button
               key={item}
               onClick={() => scrollToSection(item)}
